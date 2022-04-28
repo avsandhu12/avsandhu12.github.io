@@ -51,7 +51,7 @@
 
 .homepagenav{
     grid-row: 1/2;
-    grid-column: 7/13;
+    grid-column: 5/13;
     display: flex;
     flex-wrap: nowrap;
     margin-top: 3%;
@@ -87,6 +87,12 @@
     
     
 }
+
+
+
+
+
+
 
 
 .homepagecompany{
